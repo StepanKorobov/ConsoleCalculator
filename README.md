@@ -1,1 +1,10 @@
-The first console calculator in Java
+# The first console calculator in Java
+
+Простой калькулятор на java
+
+### Поддерживает операции:
+
+1) "+" - Сложение
+2) "-" - Вычитание
+3) "*" - Умножение
+4) "/" - Деление
