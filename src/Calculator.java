@@ -78,7 +78,7 @@ public class Calculator {
     }
 
     public static void printResult(double result, char operation) {
-        // Вывод результата, для удобства вывода сделано преобразование данных в long при операциях / - *
+        // Вывод результата, для удобства вывода сделано преобразование данных в long при операциях + - *
         if (operation == '/') {
             System.out.println("Результат: " + result);
         } else System.out.println("Результат: " + (long) result);
